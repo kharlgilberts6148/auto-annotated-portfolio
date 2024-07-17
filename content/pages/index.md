@@ -13,8 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Khwebdevs is a dynamic team of freelance designers based Kenya, specializing in cutting-edge software as a service (SaaS), software development, and web development services. Our mission is to empower businesses by providing bespoke digital solutions that drive efficiency and innovation.We leverage our expertise to craft intuitive and scalable software, alongside visually compelling and user-friendly websites. Whether you're a startup or an established enterprise, we are here to turn your digital visions into reality. Join us in transforming the digital landscape with our tailored solutions..
+    title: ''
     styles:
       self:
         height: auto
@@ -79,7 +78,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
