@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Gilbert Kipkirui
     styles:
       self:
         height: auto
