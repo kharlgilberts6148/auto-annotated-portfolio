@@ -51,7 +51,7 @@ sections:
     actions:
       - type: Link
         label: See all posts
-        url: /blog
+        url: /
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
