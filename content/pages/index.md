@@ -41,7 +41,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    subtitle: Full-Stack Web developer and AI Engineer
+    subtitle: Full-Stack Web developer and AI Engineer. Akama solutions owner
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
