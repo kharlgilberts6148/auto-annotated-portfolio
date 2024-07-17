@@ -265,7 +265,7 @@ sections:
 
           **2015**
 
-          * senior front-end at this place
+          * senior front-end dev
 
           **2013**
 
@@ -273,7 +273,7 @@ sections:
 
         **2011**
 
-          * 
+          * personal projects
         styles:
           self:
             textAlign: left
