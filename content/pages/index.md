@@ -14,12 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Khwebdevs is a dynamic team of freelance designers based Kenya, specializing in cutting-edge software as a service (SaaS), software development, and web development services. Our mission is to empower businesses by providing bespoke digital solutions that drive efficiency and innovation.We leverage our expertise to craft intuitive and scalable software, alongside visually compelling and user-friendly websites. Whether you're a startup or an established enterprise, we are here to turn your digital visions into reality. Join us in transforming the digital landscape with our tailored solutions..
     styles:
       self:
         height: auto
