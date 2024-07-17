@@ -41,6 +41,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    subtitle: Full-Stack Web developer and AI Engineer
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
