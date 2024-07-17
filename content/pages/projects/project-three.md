@@ -1,18 +1,19 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Techmart Web app
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  React e-commerce app: Smooth shopping experience with user authentication,
+  dynamic catalog browsing, easy cart selection, intuitive checkout process, and
+  real-time total calculation. Integration with Stripe & Mpesa ensures secure
+  payments, offering hassle-free transactions for users
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
   altText: Project image
 ---
 
