@@ -13,15 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Akama is a dynamic team of freelance designers based Kenya,
-      specializing in cutting-edge software as a service (SaaS), software
-      development, and web development services. Our mission is to empower
-      businesses by providing digital solutions that drive efficiency and
-      innovation.We leverage our expertise to craft intuitive and scalable
-      software, alongside visually compelling and user-friendly websites.
-      Whether you're a startup or an established enterprise, we are here to turn
-      your digital visions into reality. 
+    text: >+
+      # Akama is a dynamic team of freelance designers based Kenya, specializing
+      in cutting-edge software as a service (SaaS), software development, and
+      web development services. Our mission is to empower businesses by
+      providing digital solutions that drive efficiency and innovation.We
+      leverage our expertise to craft intuitive and scalable software, alongside
+      visually compelling and user-friendly websites. Whether you're a startup
+      or an established enterprise, we are here to turn your digital visions
+      into reality.
+
     styles:
       self:
         height: auto
