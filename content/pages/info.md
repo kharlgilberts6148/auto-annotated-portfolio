@@ -17,7 +17,7 @@ sections:
       ## Akama is a dynamic team of freelance designers based Kenya, specializing in cutting-edge software as a service (SaaS), software development, and web development services. Our mission is to empower businesses by providing digital solutions that drive efficiency and innovation.We leverage our expertise to craft intuitive and scalable software, alongside visually compelling and user-friendly websites. Whether you're a startup or an established enterprise, we are here to turn your digital visions into reality. 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/no.jpg
       altText: Hero image
     styles:
       self:
@@ -236,7 +236,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:mrwtheboss@gmail.com)
+      [mrwtheboss@gmail.com](mailto:mrwtheboss@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -257,7 +257,7 @@ sections:
         text: |-
           **Current**
 
-          * freelance @freelance.me
+          * 
 
           **2018-2021**
 
@@ -269,11 +269,11 @@ sections:
 
           **2013**
 
-          * intern developer at a big company
+          * intern developer 
 
-          **2011**
+        **2011**
 
-          * flipping burgers
+          * 
         styles:
           self:
             textAlign: left
@@ -287,7 +287,7 @@ sections:
         text: |-
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          * ba computer sciense  
 
           **2014**
 
