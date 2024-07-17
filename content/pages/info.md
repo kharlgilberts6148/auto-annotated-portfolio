@@ -271,7 +271,7 @@ sections:
 
           * intern developer 
 
-        **2011**
+          **2011**
 
           * personal projects
         styles:
