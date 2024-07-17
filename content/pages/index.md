@@ -86,7 +86,7 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: "Got an interesting project? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
