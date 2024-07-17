@@ -257,11 +257,11 @@ sections:
         text: |-
           **Current**
 
-          * 
+          * Freelance Projects
 
           **2018-2021**
 
-          * fullstack at this startup
+          * fullstack at a startup
 
           **2015**
 
