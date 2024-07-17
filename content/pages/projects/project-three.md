@@ -11,7 +11,6 @@ description: >-
   payments, offering hassle-free transactions for users
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
