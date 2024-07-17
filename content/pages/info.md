@@ -57,7 +57,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'we have worked with these folks:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
@@ -236,7 +236,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [thisismyemail.@myemail.me](mailto:mrwtheboss@gmail.com)
   - type: DividerSection
     styles:
       self:
