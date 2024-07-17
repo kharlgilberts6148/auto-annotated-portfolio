@@ -13,11 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "Akama is a dynamic team of freelance designers based Kenya, specializing in cutting-edge software as a service (SaaS), software development, and web development services. Our mission is to empower businesses by providing digital solutions that drive efficiency and innovation.We leverage our expertise to craft intuitive and scalable software, alongside visually compelling and user-friendly websites. Whether you're a startup or an established enterprise, we are here to turn your digital visions into reality.\_\n"
     styles:
       self:
         height: auto
